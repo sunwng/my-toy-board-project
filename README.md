@@ -12,6 +12,8 @@
 - Gradle
 - H2 -> MySQL (배포 시 변경하였음)
 - AWS lightsail
+- html
+- BootStrap
 
 **URL**: http://sunwngtoyboard.ml (현재는 요금 부과로 내림)
   
