@@ -14,6 +14,7 @@
 - AWS lightsail
 - html
 - BootStrap
+- Thymeleaf
 
 **URL**: http://sunwngtoyboard.ml (현재는 요금 부과로 내림)
   
